@@ -1,0 +1,3 @@
+# Introduction to the {targets} R package
+
+The {targets} package is a [Make](https://www.gnu.org/software/make/)-like pipeline tool for statistics and data science in R. With {targets}, you can maintain a reproducible workflow without repeating yourself. {targets} skips costly runtime for tasks that are already up to date, orchestrates the necessary computation with implicit parallel computing, and abstracts files as R objects. An up-to-date {targets} pipeline is tangible evidence that the output aligns with the code and data, which substantiates trust in the results. This presentation explains the purpose of {targets}, how to get started, and the major features.
