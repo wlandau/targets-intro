@@ -3,6 +3,8 @@ format:
    revealjs:
      slide-number: true
      footer: "&copy; 2022 Eli Lilly and Company"
+     view-distance: 100
+     mobile-view-distance: 100
 ---
 
 ##
@@ -60,10 +62,13 @@ knitr::opts_chunk$set(
 
 ![](./images/notebook-start.png)
 
-## The complicated reality
+## Messy reality: managing data
 
 ![](./images/notebook-end.png)
 
+## Messy reality: managing change
+
+![](./images/notebook-dilemma.png)
 
 ## Pipeline tools {.smaller}
 
